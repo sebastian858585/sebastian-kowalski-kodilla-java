@@ -1,4 +1,4 @@
 package com.kodilla.kodillacourse;
 
-public class firstClass {
+public class FirstClass {
 }
